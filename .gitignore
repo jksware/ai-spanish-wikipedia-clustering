@@ -1,0 +1,14 @@
+.git/
+.idea/
+__pycache__/
+*.pdf
+*.aux
+*.bbl
+*.log
+*.dvi
+*.blg
+*.synctex.gz
+*.7z
+*.db
+*.db-journal
+*.pyc

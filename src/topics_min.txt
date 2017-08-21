@@ -1,0 +1,519 @@
+Ficha animanga/editorial
+Ficha asociación cultural
+Ficha bloque
+Ficha de accidente
+Ficha de actor
+Ficha de aditivo
+Ficha de aerolínea
+Ficha de aeronave
+Ficha de aeropuerto
+Ficha de AFI
+Ficha de ajedrecista
+Ficha de alfabeto hebreo
+Ficha de alfombra persa
+Ficha de algoritmo
+Ficha de anatomía
+Ficha de animal famoso
+Ficha de anticonceptivo
+Ficha de antigua entidad subnacional
+Ficha de aparato de información
+Ficha de apellido
+Ficha de apertura de ajedrez
+Ficha de archipiélago
+Ficha de arma
+Ficha de arquitecto
+Ficha de arsenal nuclear
+Ficha de arte marcial
+Ficha de artefacto arqueológico
+Ficha de arteria
+Ficha de artillería
+Ficha de artista
+Ficha de artista musical
+Ficha de astronauta
+Ficha de atentado
+Ficha de atracción
+Ficha de automóvil
+Ficha de automóvil de competición
+Ficha de autoridad
+Ficha de bandera
+Ficha de barco
+Ficha de barrio
+Ficha de base antártica
+Ficha de batería
+Ficha de bebida
+Ficha de beisbolista
+Ficha de bibliografía
+Ficha de biblioteca
+Ficha de bien de interés cultural
+Ficha de billete
+Ficha de bioma
+Ficha de Bolsa de Valores
+Ficha de bot
+Ficha de brote de rayos gamma
+Ficha de buda
+Ficha de cabo
+Ficha de campeonato olímpico de baloncesto
+Ficha de canal de televisión
+Ficha de canción
+Ficha de candidatura olímpica
+Ficha de cargo político
+Ficha de carrera de caballos
+Ficha de casa de moda
+Ficha de casa real
+Ficha de casino
+Ficha de caso judicial
+Ficha de central energética
+Ficha de central nuclear
+Ficha de centro clandestino de detención
+Ficha de centro comercial
+Ficha de centro de salud
+Ficha de ciclista
+Ficha de científico
+Ficha de circuito de carreras
+Ficha de clan vampiro
+Ficha de clase de barco
+Ficha de clima
+Ficha de club deportivo
+Ficha de club deportivo/entrenador
+Ficha de club social
+Ficha de clásico de fútbol
+Ficha de cocinero
+Ficha de cofradía
+Ficha de cohete
+Ficha de cohete/Stage
+Ficha de colaborador de televisión
+Ficha de comida rápida
+Ficha de comida tradicional
+Ficha de competición a motor
+Ficha de competición de patinaje artístico sobre hielo
+Ficha de competición deportiva
+Ficha de complejo cultural
+Ficha de componente electrónico
+Ficha de compuesto químico
+Ficha de computadora
+Ficha de comuna de Chile
+Ficha de concepto oriental
+Ficha de concilio ecuménico
+Ficha de concurso de belleza
+Ficha de condado de Estados Unidos
+Ficha de conector
+Ficha de conflicto
+Ficha de congreso
+Ficha de constelación
+Ficha de cordillera
+Ficha de coreografía
+Ficha de coro
+Ficha de corredor
+Ficha de criminal
+Ficha de crisis diplomática
+Ficha de cráter
+Ficha de cuerpo celeste
+Ficha de cuerpo de agua
+Ficha de cueva
+Ficha de cultivar
+Ficha de cámara digital
+Ficha de códice
+Ficha de cónclave
+Ficha de cúmulo de galaxias
+Ficha de cúmulo estelar
+Ficha de demografía
+Ficha de denominación cristiana
+Ficha de departamento de bomberos
+Ficha de deporte
+Ficha de deportista
+Ficha de deportista/cabecera
+Ficha de deportista/olímpico
+Ficha de depósito mineral
+Ficha de derechos LGBT
+Ficha de desierto
+Ficha de discografía
+Ficha de discográfica
+Ficha de diseñador
+Ficha de diseñador de moda
+Ficha de distribución de probabilidad
+Ficha de diócesis
+Ficha de documento
+Ficha de dominio de nivel superior
+Ficha de draft
+Ficha de DVD de música
+Ficha de día feriado
+Ficha de economía
+Ficha de ecorregión
+Ficha de edificio
+Ficha de edificio religioso
+Ficha de editorial
+Ficha de elección
+Ficha de elección papal
+Ficha de elemento químico
+Ficha de elemento químico/isótopo
+Ficha de elemento químico/minitabla periódica
+Ficha de embalse
+Ficha de emisora de radio
+Ficha de encéfalo
+Ficha de encíclica
+Ficha de enfermedad
+Ficha de enfermedad/OMIM
+Ficha de entidad internacional
+Ficha de entidad subnacional
+Ficha de entidad subnacional eso es pura mentira
+Ficha de entidad subnacional/coord
+Ficha de entidad subnacional/estilo
+Ficha de entrenador
+Ficha de entrenador de fútbol
+Ficha de episodio de Futurama
+Ficha de episodio de Los Simpson
+Ficha de episodio de televisión
+Ficha de equipo acrobático
+Ficha de equipo ciclista
+Ficha de equipo de automovilismo
+Ficha de equipo de béisbol
+Ficha de equipo de Fórmula 1
+Ficha de equipo de fútbol
+Ficha de equipo de fútbol americano
+Ficha de equipo de hockey
+Ficha de equipo de rugby
+Ficha de equipo de tenis
+Ficha de equipo náutico
+Ficha de escala musical
+Ficha de escritor
+Ficha de escudo
+Ficha de escuela
+Ficha de escultismo
+Ficha de escándalo
+Ficha de espacio natural
+Ficha de estación
+Ficha de estación de esquí
+Ficha de estación de televisión de México
+Ficha de estado desaparecido
+Ficha de estela rúnica
+Ficha de estrella
+Ficha de estructura militar
+Ficha de Eurovisión
+Ficha de evento
+Ficha de evento AMM
+Ficha de facción armada
+Ficha de facultad
+Ficha de familia de idiomas
+Ficha de familia de proteínas
+Ficha de faro
+Ficha de federación deportiva
+Ficha de fenómeno meteorológico
+Ficha de festival aéreo
+Ficha de festival de música
+Ficha de fiesta
+Ficha de formato de archivo
+Ficha de franquicia de medios
+Ficha de frontera
+Ficha de Fuerzas Armadas
+Ficha de función
+Ficha de fungi
+Ficha de futbolista
+Ficha de fósil
+Ficha de fútbol americano retirado
+Ficha de galaxia
+Ficha de genocidio
+Ficha de geografía
+Ficha de gira musical
+Ficha de glaciar
+Ficha de grafo
+Ficha de Gran Premio de motociclismo
+Ficha de grupo étnico
+Ficha de género musical
+Ficha de hardware
+Ficha de himno
+Ficha de hinchas o ultras
+Ficha de historieta
+Ficha de historieta en otros medios
+Ficha de hospital
+Ficha de hotel
+Ficha de hueso
+Ficha de idioma
+Ficha de iglesia
+Ficha de incendio forestal
+Ficha de indicador de pH
+Ficha de ingeniería
+Ficha de inmigración
+Ficha de instrumento musical
+Ficha de intervención quirúrgica
+Ficha de inundación
+Ficha de isla
+Ficha de isótopo
+Ficha de juego
+Ficha de Juegos Mundiales
+Ficha de jugador de bádminton
+Ficha de jugador de go
+Ficha de jugador de rugby
+Ficha de jugador de voleibol
+Ficha de juguete
+Ficha de kana
+Ficha de la Asamblea General de la OEA
+Ficha de lago
+Ficha de lago artificial
+Ficha de lago2
+Ficha de legislatura subnacional
+Ficha de lenguaje de programación
+Ficha de libro
+Ficha de libro traducido
+Ficha de licencia de software
+Ficha de liga
+Ficha de liga de baloncesto
+Ficha de liga de fútbol
+Ficha de liga deportiva
+Ficha de listas y certificaciones
+Ficha de lluvia de meteoros
+Ficha de localidad
+Ficha de localidad de Alemania
+Ficha de localidad de Brasil
+Ficha de localidad de Bélgica
+Ficha de localidad de Bélgica/Inwoners
+Ficha de localidad de Chile
+Ficha de localidad de China
+Ficha de localidad de Colombia
+Ficha de localidad de Cuba
+Ficha de localidad de Eslovaquia
+Ficha de localidad de España
+Ficha de localidad de Estados Unidos
+Ficha de localidad de Estonia
+Ficha de localidad de Filipinas
+Ficha de localidad de Francia
+Ficha de localidad de Guatemala
+Ficha de localidad de Irlanda
+Ficha de localidad de Italia
+Ficha de localidad de Japón
+Ficha de localidad de México
+Ficha de localidad de Noruega
+Ficha de localidad de Portugal
+Ficha de localidad de Suiza
+Ficha de localidad de Ucrania
+Ficha de localidad de Venezuela
+Ficha de localidad del Ecuador
+Ficha de localidad del Perú
+Ficha de luchador
+Ficha de luchador de sumo
+Ficha de lugar ficticio
+Ficha de líder religioso
+Ficha de magnitud física
+Ficha de manganime
+Ficha de mar lunar
+Ficha de marca
+Ficha de medalla
+Ficha de mediación informal
+Ficha de medicamento
+Ficha de medio de almacenamiento
+Ficha de mes hebreo
+Ficha de microprocesador
+Ficha de militar
+Ficha de mina
+Ficha de mineral
+Ficha de misión espacial
+Ficha de modelo
+Ficha de moneda
+Ficha de montaña
+Ficha de monte submarino
+Ficha de monumento
+Ficha de motocicleta
+Ficha de motor de aeronave
+Ficha de motor de cohete
+Ficha de munición
+Ficha de museo
+Ficha de médico
+Ficha de método de cifrado
+Ficha de múltiplo de metro
+Ficha de músculo
+Ficha de Naciones Unidas
+Ficha de nadador
+Ficha de nebulosa
+Ficha de nervio
+Ficha de noble
+Ficha de nombre coreano
+Ficha de nombre propio
+Ficha de noticiero
+Ficha de NRHP
+Ficha de nube
+Ficha de número
+Ficha de obispo
+Ficha de obra de arte
+Ficha de obra de teatro
+Ficha de observatorio
+Ficha de organismo de ley
+Ficha de organismo oficial
+Ficha de organismo oficial de Argentina
+Ficha de organismo oficial de España
+Ficha de organismo oficial/Cabecera
+Ficha de organización
+Ficha de organización militante
+Ficha de organización religiosa
+Ficha de Papa Ficticio
+Ficha de parlamento
+Ficha de parque
+Ficha de parque de atracciones
+Ficha de participación en Eurovisión
+Ficha de partido
+Ficha de partido político
+Ficha de partícula
+Ficha de patinador sobre hielo
+Ficha de Patrimonio de la Unesco
+Ficha de país
+Ficha de país en los Juegos Olímpicos
+Ficha de país en los Juegos Olímpicos de la Juventud
+Ficha de país en los Juegos Paralímpicos
+Ficha de PDA
+Ficha de película
+Ficha de periodista
+Ficha de periodo histórico
+Ficha de periódico
+Ficha de persona
+Ficha de personaje
+Ficha de personaje de Avatar
+Ficha de personaje de manga y anime
+Ficha de personaje de Pokémon
+Ficha de pila eléctrica
+Ficha de piloto de carreras
+Ficha de pintura
+Ficha de plan de operaciones
+Ficha de plantae
+Ficha de plataforma de despegue
+Ficha de playa
+Ficha de podcast
+Ficha de pokémon
+Ficha de policía
+Ficha de poliedro
+Ficha de pregrado UNAL
+Ficha de premio
+Ficha de premio de GP2
+Ficha de presa itacua
+Ficha de presentador
+Ficha de producto
+Ficha de programa de radio
+Ficha de proteína
+Ficha de protocolo de red
+Ficha de prueba nuclear
+Ficha de pueblo antiguo
+Ficha de puente
+Ficha de puerto
+Ficha de puerto de montaña
+Ficha de queso
+Ficha de raza
+Ficha de raza de perro
+Ficha de raza ficticia
+Ficha de receptor celular
+Ficha de recinto deportivo
+Ficha de región geográfica
+Ficha de región vitivinícola
+Ficha de reina de certamen de Belleza
+Ficha de religión
+Ficha de resolución de la ONU
+Ficha de revista
+Ficha de revolucionario
+Ficha de revolución
+Ficha de robot
+Ficha de roca
+Ficha de salar
+Ficha de salto de agua
+Ficha de santo
+Ficha de satélite artificial
+Ficha de selección de baloncesto
+Ficha de selección de balonmano
+Ficha de selección de fútbol
+Ficha de selección de hockey sobre hielo
+Ficha de selección de hockey sobre patines
+Ficha de selección de polo
+Ficha de selección de rugby
+Ficha de selección de voleibol
+Ficha de sencillo
+Ficha de serial de televisión
+Ficha de serie de televisión
+Ficha de serie literaria
+Ficha de Serie Mundial
+Ficha de señal
+Ficha de signo zodiacal
+Ficha de sindicato
+Ficha de sintetizador
+Ficha de sistema de archivos
+Ficha de sistema de escritura
+Ficha de sistema de vías de transporte
+Ficha de sistema de órganos
+Ficha de sistema operativo
+Ficha de sistema planetario
+Ficha de sitio web
+Ficha de socket de CPU
+Ficha de software
+Ficha de sonata
+Ficha de sonda espacial
+Ficha de Super Bowl
+Ficha de supernova
+Ficha de surfista
+Ficha de sínodo de los obispos
+Ficha de sínodo diocesano
+Ficha de tarjeta gráfica
+Ficha de taxón
+Ficha de teatro
+Ficha de tecnocomplejo
+Ficha de telescopio
+Ficha de Teletón Chilena
+Ficha de teléfono móvil
+Ficha de templo
+Ficha de temporada de equipo de baloncesto
+Ficha de temporada de equipo de fútbol
+Ficha de temporada de fenómeno meteorológico
+Ficha de temporada de la NBA
+Ficha de temporada de televisión
+Ficha de temporada de tenista
+Ficha de tenimesista
+Ficha de tenista
+Ficha de terremoto
+Ficha de territorio
+Ficha de tipo de subdivisión
+Ficha de tipografía
+Ficha de torero
+Ficha de torneo de fútbol
+Ficha de traducción de la Biblia
+Ficha de traje tradicional
+Ficha de transporte público
+Ficha de tratado
+Ficha de tren
+Ficha de tumba
+Ficha de té
+Ficha de técnica especial de anime
+Ficha de título
+Ficha de título cardenalicio
+Ficha de título nobiliario
+Ficha de túnel
+Ficha de unidad
+Ficha de unidad militar
+Ficha de universidad
+Ficha de valle
+Ficha de valor nutricional
+Ficha de variedad de uva
+Ficha de vehículo espacial
+Ficha de vehículo ficticio
+Ficha de vehículo militar
+Ficha de vena
+Ficha de video musical
+Ficha de videoconsola
+Ficha de videografía
+Ficha de videojuego
+Ficha de villa miseria
+Ficha de virgen
+Ficha de vía de transporte
+Ficha de waterpolista
+Ficha de webnovela
+Ficha de wikiproyecto
+Ficha de wikiproyecto/precarga
+Ficha de yacimiento arqueológico
+Ficha de zona arqueológica
+Ficha de zoológico
+Ficha de álbum
+Ficha de álbum/Sencillos digitales
+Ficha de álbum/Sencillos promocionales
+Ficha de árbitro
+Ficha de Órbita Disco Planeta
+Ficha de Órbita Planeta
+Ficha de Órbita Planeta Hipotético
+Ficha Gran Premio de Motociclismo
+Ficha intento de acceso a la UE
+Ficha militar
+Ficha NSP
+Ficha partido de fútbol
+Ficha red ferroviaria de Cataluña
+Ficha Wikidata
